@@ -1,0 +1,170 @@
+# depslib dependency file v1.0
+1526094552 source:c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<Task.h>
+	<Date.h>
+	<University.h>
+	<Work.h>
+	<Shopping.h>
+
+1526091793 source:c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\src\task.cpp
+	"Task.h"
+
+1526091656 c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\include\task.h
+	<Date.h>
+	<iostream>
+
+1526080825 source:c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\src\work.cpp
+	"Work.h"
+
+1526080804 c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\include\work.h
+	<iostream>
+	<Task.h>
+
+1526060281 source:c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\src\date.cpp
+	"Date.h"
+
+1526060400 c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\include\date.h
+
+1526081981 source:c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\src\shopping.cpp
+	"Shopping.h"
+
+1526081966 c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\include\shopping.h
+	<Task.h>
+
+1526080788 source:c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\src\university.cpp
+	"University.h"
+
+1526080780 c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\include\university.h
+	<Task.h>
+
+1526077325 source:c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\src\database.cpp
+	"Database.h"
+
+1526078301 c:\users\sanusi1haya901\desktop\workspace\c++\taskmanager\include\database.h
+	<Task.h>
+	<Work.h>
+	<vector>
+	<University.h>
+
+1526098343 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\src\date.cpp
+	"Date.h"
+
+1526098353 c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\include\date.h
+
+1526124796 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\src\shopping.cpp
+	"Shopping.h"
+
+1526124796 c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\include\shopping.h
+	<Task.h>
+
+1526098349 c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\include\task.h
+	<Date.h>
+	<iostream>
+
+1526098339 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\src\task.cpp
+	"Task.h"
+
+1526098337 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\src\university.cpp
+	"University.h"
+
+1526098347 c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\include\university.h
+	<Task.h>
+
+1526098335 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\src\work.cpp
+	"Work.h"
+
+1526098345 c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\include\work.h
+	<iostream>
+	<Task.h>
+
+1526125122 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<Task.h>
+	<Date.h>
+	<University.h>
+	<Work.h>
+	<Shopping.h>
+
+1526087542 source:c:\users\sanusi1haya901\downloads\taskmanagerfinalversion\taskmanagerfinalversion\src\date.cpp
+	"Date.h"
+
+1526087552 c:\users\sanusi1haya901\downloads\taskmanagerfinalversion\taskmanagerfinalversion\include\date.h
+
+1526113996 source:c:\users\sanusi1haya901\downloads\taskmanagerfinalversion\taskmanagerfinalversion\src\shopping.cpp
+	"Shopping.h"
+
+1526113996 c:\users\sanusi1haya901\downloads\taskmanagerfinalversion\taskmanagerfinalversion\include\shopping.h
+	<Task.h>
+
+1526087548 c:\users\sanusi1haya901\downloads\taskmanagerfinalversion\taskmanagerfinalversion\include\task.h
+	<Date.h>
+	<iostream>
+
+1526087538 source:c:\users\sanusi1haya901\downloads\taskmanagerfinalversion\taskmanagerfinalversion\src\task.cpp
+	"Task.h"
+
+1526087536 source:c:\users\sanusi1haya901\downloads\taskmanagerfinalversion\taskmanagerfinalversion\src\university.cpp
+	"University.h"
+
+1526087546 c:\users\sanusi1haya901\downloads\taskmanagerfinalversion\taskmanagerfinalversion\include\university.h
+	<Task.h>
+
+1526087534 source:c:\users\sanusi1haya901\downloads\taskmanagerfinalversion\taskmanagerfinalversion\src\work.cpp
+	"Work.h"
+
+1526087544 c:\users\sanusi1haya901\downloads\taskmanagerfinalversion\taskmanagerfinalversion\include\work.h
+	<iostream>
+	<Task.h>
+
+1526420058 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\main.cpp
+	<iostream>
+	<fstream>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<Task.h>
+	<Date.h>
+	<University.h>
+	<Work.h>
+	<Shopping.h>
+
+1526420035 c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\include\task.h
+	<Date.h>
+	<iostream>
+
+1526420042 c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\include\date.h
+
+1526420032 c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\include\university.h
+	<Task.h>
+
+1526420029 c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\include\work.h
+	<iostream>
+	<Task.h>
+
+1526420038 c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\include\shopping.h
+	<Task.h>
+
+1526420026 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\src\date.cpp
+	"Date.h"
+
+1526420023 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\src\shopping.cpp
+	"Shopping.h"
+
+1526420019 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\src\task.cpp
+	"Task.h"
+
+1526420017 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\src\university.cpp
+	"University.h"
+
+1526420013 source:c:\users\nilufer aleskerli\desktop\taskmanagerfinalversion2\taskmanagerfinalversion\src\work.cpp
+	"Work.h"
+

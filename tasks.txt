@@ -1,0 +1,6 @@
+homework project 9 1 4 4 18 5 9 19 1 2
+COOKING chickennuggest+chips 7 3 5 9 2018 5 9 2018 3000
+potatoes purchacefromcba 5 3 12 5 2018 12 5 2015 1000
+systemmodeling subject 8 1 15 9 2018 15 2 2019 1 2
+study calculus 10 1 15 5 2018 17 5 2018 0 2
+presentation c++ 10 1 16 5 2018 16 5 2018 1 2
